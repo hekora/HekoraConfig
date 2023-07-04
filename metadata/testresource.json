@@ -5,7 +5,7 @@
         "game": {
             "latest": {
                 "name": "",
-                "version": "1.7",
+                "version": "1.7.0",
                 "path": "https://github.com/hekora/HekoraConfig/raw/main/GenshinImpact.rar",
                 "size": "5356048",
                 "md5": "50048937dd0a97c023e3eb17d8d9855f",
