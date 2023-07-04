@@ -48,7 +48,7 @@
         "ConfigRegistryLocation": "Software\\Hekora\\Minecraft 2D",
         "FallbackLanguage": "en",
         "GameDirectoryName": "Minecraft 2D game",
-        "GameExecutableName": "Minecraft2D.exe",
+        "GameExecutableName": "Minecraft 2D.exe",
         "GameType": "MC2D",
         "VendorType": "Hekora",
         "GameSupportedLanguages": [
