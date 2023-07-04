@@ -6,14 +6,14 @@
             "latest": {
                 "name": "",
                 "version": "6.7.0",
-                "path": "https://github.com/hekora/HekoraConfig/raw/main/GenshinImpact.rar",
+                "path": "https://github.com/hekora/HekoraConfig/raw/main/GenshinImpact.7z",
                 "size": "5356048",
-                "md5": "ddec3e8b0f8d02c3b510a6ffad18373b",
+                "md5": "4c133f40a600178e144a06726976a33d",
                 "entry": "GenshinImpact.exe",
                 "voice_packs": [],
                 "decompressed_path": "",
                 "segments": [],
-                "package_size": "3254319"
+                "package_size": "3127899"
             },
             "diffs": []
         },
