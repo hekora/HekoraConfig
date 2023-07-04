@@ -8,9 +8,18 @@
                 "version": "1.1.0",
                 "path": "https://github.com/hekora/HekoraConfig/raw/main/GenshinImpact.rar",
                 "size": "5356048",
-                "md5": "d25f4eaf495c372f6d3eaec8c73382a5",
+                "md5": "50048937dd0a97c023e3eb17d8d9855f",
                 "entry": "GenshinImpact.exe",
-                "voice_packs": [],
+                "voice_packs": [
+                    {
+                        "language": "en-us",
+                        "name": "",
+                        "path": "",
+                        "size": "0",
+                        "md5": "",
+                        "package_size": "0"
+                    }
+                ],
                 "decompressed_path": "",
                 "segments": [],
                 "package_size": "3254319"
