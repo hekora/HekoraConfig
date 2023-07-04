@@ -4,8 +4,8 @@
             "MsgId": 5000005,
             "IsDisposable": true,
             "Severity": "Success",
-            "Title": "[EN] Collapse Codename: Version Kiana Hotfix (v1.70.4 preview) is up!",
-            "Message": "We've just pushed a hotfix to fix the pre-load not being detected by the launcher on pre-loading and crashes on Game Repair and Update Caches. Please update your launcher to the latest v1.69.18 if you have the problem mentioned.",
+            "Title": "Minecraft 2D added!",
+            "Message": "We've just pushed Minecraft 2D alpha version.",
             "Show": true,
             "ValidForVerBelow": "1.70.4.0",
             "ActionProperty": {
