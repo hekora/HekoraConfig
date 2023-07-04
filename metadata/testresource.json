@@ -6,10 +6,10 @@
             "latest": {
                 "name": "",
                 "version": "6.7.0",
-                "path": "https://github.com/hekora/HekoraConfig/raw/main/GenshinImpact.7z",
+                "path": "https://github.com/hekora/HekoraConfig/raw/main/Minecraft2D.7z",
                 "size": "5356048",
-                "md5": "4c133f40a600178e144a06726976a33d",
-                "entry": "GenshinImpact.exe",
+                "md5": "e8ddfb967f9fddedf46364105e31dc8d",
+                "entry": "Minecraft2D.exe",
                 "voice_packs": [],
                 "decompressed_path": "",
                 "segments": [],
