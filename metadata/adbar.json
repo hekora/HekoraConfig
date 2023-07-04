@@ -13,16 +13,9 @@
             {
                 "banner_id": "64a26b0cba487d809f249ccb",
                 "name": "",
-                "img": "https://webstatic.hoyoverse.com/upload/static-resource/2023/07/03/3b5299290e13ce167ad8c603b42b7e5a_6829421603665749012.jpg",
+                "img": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/ad/3b5299290e13ce167ad8c603b42b7e5a_6829421603665749012.png",
                 "url": "https://hoyo.link/07jODHAd",
                 "order": "57"
-            },
-            {
-                "banner_id": "64a248919dfd76c5adcf36a4",
-                "name": "",
-                "img": "https://webstatic.hoyoverse.com/upload/static-resource/2023/07/03/fd7465260c079220fca306893f276dca_1544864269039470155.jpg",
-                "url": "https://hoyo.link/25uODBAd",
-                "order": "56"
             }
         ],
         "icon": [
