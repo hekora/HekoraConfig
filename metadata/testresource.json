@@ -10,24 +10,7 @@
                 "size": "5356048",
                 "md5": "50048937dd0a97c023e3eb17d8d9855f",
                 "entry": "GenshinImpact.exe",
-                "voice_packs": [
-                    {
-                        "language": "zh-cn",
-                        "name": "",
-                        "path": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230513200104_2odHBzbUAP5IOIvE/Audio_Chinese_3.7.0.zip",
-                        "size": "20153882380",
-                        "md5": "2b0fd39275a2974fc85ee1e9735b42b7",
-                        "package_size": "10071698310"
-                    },
-                    {
-                        "language": "en-us",
-                        "name": "",
-                        "path": "",
-                        "size": "0",
-                        "md5": "43b360b3f5c71feb951a204f81a1d232",
-                        "package_size": "0"
-                    }
-                ],
+                
                 "decompressed_path": "",
                 "segments": [],
                 "package_size": "3254319"
