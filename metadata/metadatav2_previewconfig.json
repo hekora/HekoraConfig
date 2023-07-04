@@ -51,6 +51,13 @@
         "GameExecutableName": "Minecraft2D.exe",
         "GameType": "MC2D",
         "VendorType": "Hekora",
+        "GameSupportedLanguages": [
+          "Chinese",
+          "English",
+          "Vietnamese",
+          "Thai",
+          "Indonesian"
+        ],
         "GameDispatchURL": "",
         "ProtoDispatchKey": "",
         "IsHideSocMedDesc": false,
