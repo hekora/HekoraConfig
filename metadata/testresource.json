@@ -5,32 +5,23 @@
         "game": {
             "latest": {
                 "name": "",
-                "version": "1.7.0",
+                "version": "6.7.0",
                 "path": "https://github.com/hekora/HekoraConfig/raw/main/GenshinImpact.rar",
                 "size": "5356048",
                 "md5": "50048937dd0a97c023e3eb17d8d9855f",
                 "entry": "GenshinImpact.exe",
-                
+                "voice_packs": [],
                 "decompressed_path": "",
                 "segments": [],
                 "package_size": "3254319"
             },
-            "diffs": [
-                
-            ]
+            "diffs": []
         },
-        "plugin": {
-            "plugins": [
-                
-            ],
-            "version": "1"
-        },
-        "web_url": "https://starrail.hoyoverse.com/launcher",
+        "plugin": null,
+        "web_url": "a",
         "force_update": null,
         "pre_download_game": null,
-        "deprecated_packages": [
-            
-        ],
+        "deprecated_packages": [],
         "sdk": null,
         "deprecated_files": []
     }
