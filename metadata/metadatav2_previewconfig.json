@@ -13,7 +13,7 @@
         "ZonePosterURL": "",
         "InstallRegistryLocation": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Project Siege",
         "DefaultGameLocation": "C:\\Program Files\\Project Siege",
-        "ConfigRegistryLocation": "Software\\miHoYo\\Project Siege",
+        "ConfigRegistryLocation": "Software\\Hekora\\Project Siege",
         "FallbackLanguage": "en",
         "GameDirectoryName": "Project Siege game",
         "GameExecutableName": "ProjectSiege.exe",
