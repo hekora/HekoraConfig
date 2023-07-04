@@ -1,7 +1,7 @@
 {
     "AppPush": [
         {
-            "MsgId": 21,
+            "MsgId": 5000005,
             "IsDisposable": true,
             "Severity": "Success",
             "Title": "[EN] Collapse Codename: Version Kiana Hotfix (v1.70.4 preview) is up!",
