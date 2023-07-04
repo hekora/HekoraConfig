@@ -52,11 +52,7 @@
         "GameType": "MC2D",
         "VendorType": "Hekora",
         "GameSupportedLanguages": [
-          "Chinese",
-          "English",
-          "Vietnamese",
-          "Thai",
-          "Indonesian"
+          "English"
         ],
         "GameDispatchURL": "",
         "ProtoDispatchKey": "",
