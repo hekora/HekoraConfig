@@ -9,7 +9,7 @@
         "ZoneFullname": "Project Siege (Global)",
         "ZoneDescription": "Project Siege - In the game, set forth on a journey across a fantasy world called Teyvat. In this vast world, you can explore seven nations, meet a diverse cast of characters with unique personalities and abilities, and fight powerful enemies together with them, all on the way during your quest to find your lost sibling.",
         "ZoneURL": "https://genshin.hoyoverse.com/en/home",
-        "ZoneLogoURL": "https://github.com/neon-nyan/CollapseLauncher-ReleaseRepo/raw/main/metadata/game_logos/logo_genshin.png",
+        "ZoneLogoURL": "",
         "ZonePosterURL": "https://github.com/neon-nyan/CollapseLauncher-ReleaseRepo/raw/main/metadata/game_posters/poster_genshin.png",
         "InstallRegistryLocation": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Project Siege",
         "DefaultGameLocation": "C:\\Program Files\\Project Siege",
