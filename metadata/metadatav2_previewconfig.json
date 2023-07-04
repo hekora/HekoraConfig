@@ -19,7 +19,7 @@
         "GameExecutableName": "ProjectSiege.exe",
         "GameType": "Siege",
         "VendorType": "Hekora",
-        "GameDispatchURL": "https://{0}.yuanshen.com/query_cur_region?version={1}\u0026lang=1\u0026platform=3\u0026binary=1\u0026time=260\u0026channel_id=1\u0026sub_channel_id=1\u0026account_type=1\u0026dispatchSeed={2}\u0026key_id=5",
+        "GameDispatchURL": "",
         "ProtoDispatchKey": "31c339cb23bd65a2",
         "IsGenshin": true,
         "IsHideSocMedDesc": false,
