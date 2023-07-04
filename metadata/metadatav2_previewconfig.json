@@ -59,7 +59,7 @@
         "LauncherSpriteURLMultiLangFallback": "en-us",
         "LauncherSpriteURL": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/metadata/mc-adbar.json",
         "LauncherResourceURL": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/metadata/testresource.json",
-        "IsRepairEnabled": false,
+        "IsRepairEnabled": true,
         "InternalGameNameFolder": "Minecraft 2D",
         "InternalGameNameInConfig": "Minecraft 2D"
       }
