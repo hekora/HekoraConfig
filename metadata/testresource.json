@@ -22,26 +22,10 @@
                     {
                         "language": "en-us",
                         "name": "",
-                        "path": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230513200104_2odHBzbUAP5IOIvE/Audio_English(US)_3.7.0.zip",
-                        "size": "23181834322",
+                        "path": "",
+                        "size": "0",
                         "md5": "43b360b3f5c71feb951a204f81a1d232",
-                        "package_size": "11585674281"
-                    },
-                    {
-                        "language": "ja-jp",
-                        "name": "",
-                        "path": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230513200104_2odHBzbUAP5IOIvE/Audio_Japanese_3.7.0.zip",
-                        "size": "26102412084",
-                        "md5": "516ad9333520473c6ff3ac7fe6d1a5e9",
-                        "package_size": "13045963162"
-                    },
-                    {
-                        "language": "ko-kr",
-                        "name": "",
-                        "path": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230513200104_2odHBzbUAP5IOIvE/Audio_Korean_3.7.0.zip",
-                        "size": "19724385650",
-                        "md5": "07251fd076e60111716c4ca970965a87",
-                        "package_size": "9856949945"
+                        "package_size": "0"
                     }
                 ],
                 "decompressed_path": "",
