@@ -3,9 +3,9 @@
     "message": "OK",
     "data": {
         "adv": {
-            "background": "https://sdk.hoyoverse.com/upload/operation_location_os/2023/06/12/4ebb05ed7bd665f547800f6514d5fa4e_6853019914068699484.png",
-            "icon": "https://sdk.hoyoverse.com/upload/operation_location_os/2023/06/12/6826ea42714fbfa90dba8506fc678f4e_781485492342189573.png",
-            "url": "https://www.hoyolab.com/versionLive?game_id=2&hyl_game_version=3.7&page_id=64586097f8242d07b405a3e4&utm_source=launcher&utm_medium=button&utm_id=2",
+            "background": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/bg/LauncherImage.png",
+            "icon": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/bg/6826ea42714fbfa90dba8506fc678f4e_781485492342189573.png",
+            "url": "",
             "version": "94",
             "bg_checksum": "aa825f644d73d5d76cc6deff4fdc121b"
         },
@@ -14,76 +14,22 @@
                 "banner_id": "64a26b0cba487d809f249ccb",
                 "name": "",
                 "img": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/ad/3b5299290e13ce167ad8c603b42b7e5a_6829421603665749012.png",
-                "url": "https://hoyo.link/07jODHAd",
+                "url": "",
                 "order": "57"
             }
         ],
         "icon": [
             {
-                "icon_id": "637b5e80e2b1290bcd6289d7",
-                "img": "https://sdk.hoyoverse.com/upload/operation_location_os/2022/11/21/cd9820d7744a0dc33fb9a3be63f619f9_1877558184559028604.png",
-                "tittle": "",
-                "url": "https://hoyo.link/efQ1BDAd",
-                "qr_img": "",
-                "qr_desc": "",
-                "img_hover": "https://sdk.hoyoverse.com/upload/operation_location_os/2022/11/21/4aa08a3206732ab29d888461bbec1c9e_5443690099880261276.png",
-                "other_links": [],
-                "title": "",
-                "icon_link": "https://hoyo.link/efQ1BDAd",
-                "links": [
-                    {
-                        "title": "",
-                        "url": ""
-                    }
-                ]
-            },
-            {
-                "icon_id": "6479971784c9ec05aa29a7ed",
-                "img": "https://sdk.hoyoverse.com/upload/operation_location_os/2023/06/02/f39e0bc3d767b310b680c93e1d7580fd_1989948137619793517.png",
-                "tittle": "",
-                "url": "",
-                "qr_img": "https://sdk.hoyoverse.com/upload/operation_location_os/2023/06/02/e8a6f53990bff72afe65c2853b17e599_2450051325884301587.png",
-                "qr_desc": "Scan to Access",
-                "img_hover": "https://sdk.hoyoverse.com/upload/operation_location_os/2023/06/02/8be08793e4fe341062c93284f747715a_3947111538885006959.png",
-                "other_links": [],
-                "title": "",
-                "icon_link": "",
-                "links": [
-                    {
-                        "title": "Visit the Teyvat Interactive Map",
-                        "url": "https://hoyo.link/82OyCBAd"
-                    }
-                ]
-            },
-            {
-                "icon_id": "5f68210827362432ee7a170b",
-                "img": "https://sdk.hoyoverse.com/upload/operation_location_os/2022/10/24/ff464849a8cf617f80febf93e6c10319_8853121325488069052.png",
-                "tittle": "HoYoLAB Community",
-                "url": "https://www.hoyolab.com/home?lang=en-us&utm_source=launcher&utm_medium=game&from_id=2&utm_campaign=mimoicon",
-                "qr_img": "https://sdk.hoyoverse.com/upload/operation_location_os/2022/08/05/8aa41158af4e7103673f87225ef2981c_7848796482124570193.jpg",
-                "qr_desc": "",
-                "img_hover": "https://sdk.hoyoverse.com/upload/operation_location_os/2022/10/24/76090ea0be7bfa5576127daf248ae41a_8144943104885851176.png",
-                "other_links": [],
-                "title": "HoYoLAB Community",
-                "icon_link": "",
-                "links": [
-                    {
-                        "title": "HoYoLAB Community",
-                        "url": "https://www.hoyolab.com/home?lang=en-us&utm_source=launcher&utm_medium=game&from_id=2&utm_campaign=mimoicon"
-                    }
-                ]
-            },
-            {
                 "icon_id": "5f6820e997670927c0e3044b",
-                "img": "https://sdk.hoyoverse.com/upload/operation_location_os/2022/10/24/fd58815f28106286a659f27c05ac8db5_4343322396733609010.png",
-                "tittle": "",
-                "url": "https://hoyo.link/56v1BCAd",
+                "img": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/icons/fd58815f28106286a659f27c05ac8db5_4343322396733609010.png",
+                "tittle": "Official Youtube",
+                "url": "https://www.youtube.com/@hekora",
                 "qr_img": "",
                 "qr_desc": "",
-                "img_hover": "https://sdk.hoyoverse.com/upload/operation_location_os/2022/10/24/ed61a38292eb5b6300bf66f7ffdac142_85766544021801698.png",
+                "img_hover": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/icons/ed61a38292eb5b6300bf66f7ffdac142_85766544021801698.png",
                 "other_links": [],
-                "title": "",
-                "icon_link": "https://hoyo.link/56v1BCAd",
+                "title": "Official Youtube",
+                "icon_link": "https://www.youtube.com/@hekora",
                 "links": [
                     {
                         "title": "",
@@ -93,51 +39,15 @@
             },
             {
                 "icon_id": "6340eab02ea84f780fe9d213",
-                "img": "https://sdk.hoyoverse.com/upload/operation_location_os/2022/10/24/4183c967616af8b1290a6ed43e7b8cab_6217543409908419271.png",
-                "tittle": "official en Twitter",
-                "url": "https://hoyo.link/e0v1BRAd",
+                "img": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/icons/4183c967616af8b1290a6ed43e7b8cab_6217543409908419271.png",
+                "tittle": "Official Twitter",
+                "url": "https://twitter.com/HekoraStudio",
                 "qr_img": "",
                 "qr_desc": "",
-                "img_hover": "https://sdk.hoyoverse.com/upload/operation_location_os/2022/10/24/1758995f0c52344e7515ca5674d410d3_5802627553554210671.png",
+                "img_hover": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/icons/1758995f0c52344e7515ca5674d410d3_5802627553554210671.png",
                 "other_links": [],
-                "title": "official en Twitter",
-                "icon_link": "https://hoyo.link/e0v1BRAd",
-                "links": [
-                    {
-                        "title": "",
-                        "url": ""
-                    }
-                ]
-            },
-            {
-                "icon_id": "5f6820b727cea10ad7bfa16b",
-                "img": "https://sdk.hoyoverse.com/upload/operation_location_os/2022/10/24/5b10dc51621ecbdc9cf3be90d4cd1b6f_3960089535936809015.png",
-                "tittle": "",
-                "url": "https://hoyo.link/42v1BZAd",
-                "qr_img": "",
-                "qr_desc": "",
-                "img_hover": "https://sdk.hoyoverse.com/upload/operation_location_os/2022/10/24/5908d7b33ab4287b095d58de2ebb8cc0_2415367723899080740.png",
-                "other_links": [],
-                "title": "",
-                "icon_link": "https://hoyo.link/42v1BZAd",
-                "links": [
-                    {
-                        "title": "",
-                        "url": ""
-                    }
-                ]
-            },
-            {
-                "icon_id": "5f6820a34ed9960f03c545de",
-                "img": "https://sdk.hoyoverse.com/upload/operation_location_os/2022/11/23/4b6ee95c33effab36871f1c4be05e981_2059686994534364387.png",
-                "tittle": "",
-                "url": "https://www.reddit.com/r/Genshin_Impact/",
-                "qr_img": "",
-                "qr_desc": "",
-                "img_hover": "https://sdk.hoyoverse.com/upload/operation_location_os/2022/10/24/218b8b6e79f9a69e6cf48629c95356a9_7034886116392301505.png",
-                "other_links": [],
-                "title": "",
-                "icon_link": "https://www.reddit.com/r/Genshin_Impact/",
+                "title": ".official Twitter",
+                "icon_link": "https://twitter.com/HekoraStudio",
                 "links": [
                     {
                         "title": "",
@@ -147,15 +57,15 @@
             },
             {
                 "icon_id": "61efda198aa285c8deddb8ce",
-                "img": "https://sdk.hoyoverse.com/upload/operation_location_os/2022/10/24/34da88b6e194e59332df55469f619245_8228946886786408313.png",
-                "tittle": "",
-                "url": "https://genshin.hoyoverse.com/en",
+                "img": "https://github.com/hekora/HekoraConfig/blob/main/icons/34da88b6e194e59332df55469f619245_8228946886786408313.png",
+                "tittle": "Home",
+                "url": "",
                 "qr_img": "",
                 "qr_desc": "",
-                "img_hover": "https://sdk.hoyoverse.com/upload/operation_location_os/2022/10/24/2d2473eb5fdfe823b6e6d91a6a431796_4737885734506978772.png",
+                "img_hover": "https://github.com/hekora/HekoraConfig/blob/main/icons/2d2473eb5fdfe823b6e6d91a6a431796_4737885734506978772.png",
                 "other_links": [],
-                "title": "",
-                "icon_link": "https://genshin.hoyoverse.com/en",
+                "title": "Home",
+                "icon_link": "",
                 "links": [
                     {
                         "title": "",
@@ -168,29 +78,11 @@
             {
                 "post_id": "64a3ce5b9dfd76c5adcf3724",
                 "type": "POST_TYPE_INFO",
-                "tittle": "\"Secret Summer Paradise\" Event: Take Part to Obtain Kaeya's Outfit and Invite \"Fantastical Evening Star\" Layla (Cryo)",
-                "url": "https://hoyo.link/90nPDBAd",
+                "tittle": "\"Summer Paradise\" Event: Take Part to Obtain Lava Serpent's Outfit!",
+                "url": "",
                 "show_time": "07/03",
                 "order": "12",
-                "title": "\"Secret Summer Paradise\" Event: Take Part to Obtain Kaeya's Outfit and Invite \"Fantastical Evening Star\" Layla (Cryo)"
-            },
-            {
-                "post_id": "64a3ce5b9dfd76c5adcf3725",
-                "type": "POST_TYPE_INFO",
-                "tittle": "\"Secret Summer Paradise\" Gameplay Details",
-                "url": "https://hoyo.link/24pPDBAd",
-                "show_time": "07/04",
-                "order": "11",
-                "title": "\"Secret Summer Paradise\" Gameplay Details"
-            },
-            {
-                "post_id": "64a26b15ba487d809f249cdc",
-                "type": "POST_TYPE_INFO",
-                "tittle": "\"Secret Summer Paradise\" Version 3.8 Events Preview - Phase I",
-                "url": "https://hoyo.link/65jODGAd",
-                "show_time": "07/03",
-                "order": "9",
-                "title": "\"Secret Summer Paradise\" Version 3.8 Events Preview - Phase I"
+                "title": "\"Summer Paradise\" Event: Take Part to Obtain Lava Serpent's Outfit!"
             }
         ],
         "qq": [],
@@ -204,7 +96,7 @@
             "tools_link": ""
         },
         "links": {
-            "faq": "https://www.hoyolab.com/genshin/article/164512?utm_source=launcher&utm_medium=game&from_id=2&utm_campaign=faq",
+            "faq": "",
             "version": "2"
         }
     }
