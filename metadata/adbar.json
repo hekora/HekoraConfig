@@ -4,7 +4,7 @@
     "data": {
         "adv": {
             "background": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/bg/LauncherImage.png",
-            "icon": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/bg/6826ea42714fbfa90dba8506fc678f4e_781485492342189573.png",
+            "icon": "",
             "url": "",
             "version": "94",
             "bg_checksum": "aa825f644d73d5d76cc6deff4fdc121b"
@@ -48,24 +48,6 @@
                 "other_links": [],
                 "title": ".official Twitter",
                 "icon_link": "https://twitter.com/HekoraStudio",
-                "links": [
-                    {
-                        "title": "",
-                        "url": ""
-                    }
-                ]
-            },
-            {
-                "icon_id": "61efda198aa285c8deddb8ce",
-                "img": "https://github.com/hekora/HekoraConfig/blob/main/icons/34da88b6e194e59332df55469f619245_8228946886786408313.png",
-                "tittle": "Home",
-                "url": "",
-                "qr_img": "",
-                "qr_desc": "",
-                "img_hover": "https://github.com/hekora/HekoraConfig/blob/main/icons/2d2473eb5fdfe823b6e6d91a6a431796_4737885734506978772.png",
-                "other_links": [],
-                "title": "Home",
-                "icon_link": "",
                 "links": [
                     {
                         "title": "",
